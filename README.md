@@ -1,0 +1,1 @@
+I am a software engineer with experience using JavaScript, TypeScript, ReactJS, NodeJS, Webpack, Docker, Kubernetes, and more. I am a very disciplined professional who prides himself on his never ceasing curiosity and drive.
