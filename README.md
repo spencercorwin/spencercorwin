@@ -1,7 +1,5 @@
 ### Spencer Corwin
 
-I am a software engineer with experience using JavaScript, TypeScript, ReactJS, NodeJS, Webpack, Docker, Kubernetes, and more. I am a very disciplined professional who prides himself on his never ceasing curiosity and drive.
-
 <!--
 **spencercorwin/spencercorwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Spencer Corwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=spencercorwin&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spencercorwin&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
